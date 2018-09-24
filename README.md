@@ -1,7 +1,7 @@
 # Proyecto Fin de Grado
 
-	Pedro Manuel Muñoz Morales
-	pmunoz85@alumno.uned.es
+	Pedro Manuel Muñoz Morales, Francisco Iniesto Carrasco, Covadonga Rodrigo San Juan
+	pmunoz85@alumno.uned.es, francisco.iniesto@open.ac.uk, covadonga@lsi.uned.es	
 
 	UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA (UNED)
 
@@ -11,9 +11,6 @@
 
 	YourMOOC4all – Diseño inclusivo y retroalimentación útil de cursos MOOC para estudiantes con discapacidad
 
-	Dirigido por: Francisco Iniesto Carrasco
-	Codirigido por: Covadonga Rodrigo San Juan
-	
 	Curso: 2017-2018: 1ª Convocatoria
 
 # Producción en Heroku
